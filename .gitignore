@@ -1,0 +1,4 @@
+# Project exclude paths
+/lesson-01-servlet-api/target/
+/lesson-02-spring-basics/target/
+/lesson-03-spring-mvc/target/
