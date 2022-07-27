@@ -58,9 +58,9 @@
                 <version>2.2</version>
                 <configuration>
                     <url>http://localhost:8080/manager/text</url>
-                    <username>admin</username>
-                    <password>admin</password>
-                    <path>/mvc-app</path>
+                    <username>Admin</username>
+                    <password>Admin</password>
+                    <path>/mvc-app-new</path>
                 </configuration>
             </plugin>
         </plugins>
